@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Sum.cs\bin\Debug\Sum.cs.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Sum.cs\bin\Debug\Sum.cs.pdb
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Sum.cs\obj\x86\Debug\Sum.cs.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Sum.cs\obj\x86\Debug\Sum.cs.pdb
